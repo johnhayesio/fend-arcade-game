@@ -1,3 +1,32 @@
 body {
-    text-align: center;
+  text-align: center;
+}
+
+#gameDisplay {
+  font-size: 2rem;
+}
+
+#congratsPopup {
+  width: 100vw;
+  height: 100vh;
+  background: #fcf9ed;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 3rem;
+  /*  position to cover the game*/
+  position: absolute;
+}
+
+.hide {
+  display: none;
+}
+
+#congratsPlay {
+  cursor: pointer;
+  background: #2ecc71;
+  width: 10rem;
+  margin: auto;
+  padding: 3rem;
+  color: white;
+  border-radius: 8px;
 }
