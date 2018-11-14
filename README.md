@@ -10,4 +10,4 @@ Avoid the enemies and obstacles. Try to collect as many points as possible.
 Reach the water and receive 100 points. For each gem that you collect, you will receive 25 points.
 
 # Play frogger
-[Start Game](https://johnhayesio.github.io/fend-arcade-game)
+[Start Game](https://johnhayesio.github.io/arcade-game)
